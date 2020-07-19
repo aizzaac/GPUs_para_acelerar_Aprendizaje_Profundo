@@ -3,7 +3,7 @@ https://www.edx.org/course/using-gpus-to-scale-and-speed-up-deep-learning
 
 SILABO
 
-Módulo 1 - Revisión de Aprensizaje Profundo
+Módulo 1 - Revisión de Aprendizaje Profundo
 1. Introducción al Aprendizaje Profundo
 2. Proceso de Aprendizaje Profundo
 
