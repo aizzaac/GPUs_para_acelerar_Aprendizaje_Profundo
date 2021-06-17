@@ -1,4 +1,4 @@
-# Usando-GPUs-para-acelerar-el-Aprendizaje-Profundo - edx
+# GPUs_para_acelerar_el_Aprendizaje_Profundo - edx
 https://www.edx.org/course/using-gpus-to-scale-and-speed-up-deep-learning
 
 SILABO
